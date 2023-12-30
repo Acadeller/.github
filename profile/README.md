@@ -1,6 +1,6 @@
 <div align="center">
 
-# ACADELLER
+# acadeller
 
 ![Acadeller - Acadeller](https://i.imgur.com/MHrqFrY.png)
 
@@ -16,6 +16,6 @@
 
 </div>
 
-# ¿Qué es Acadeller?
+# ¿Qué es acadeller?
 
 [Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar las carreras de miles de personas en el mundo del desarrollo de software. Que a día de hoy cuenta con más de 40.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
